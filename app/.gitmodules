@@ -1,0 +1,3 @@
+[submodule "search-engine"]
+	path = search-engine
+	url = git@github.com:ottodelshammar/search-engine.git
